@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Pragash Jeyaratnam
-title: Engineer
+title: Engineer ( B.Sc | CEH | CSM )
 email: pragash.jeyaratnam@gmail.com
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ stackoverflow_username: "choppe"
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: pragashj
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -46,9 +46,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Pragash and I'm an Engineering Practitioner. On top of wiring things, I am passionate about building interesting tools for general public. 
+  I am most skilled in: <mark>Embedded Systems</mark> <mark>Security</mark> and <mark>Cooking</mark>
 
 content:
   - title: Projects # Title for the section
