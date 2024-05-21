@@ -53,7 +53,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: list
+      - layout: top-middle
         title: Cyber Scribble Blog
         link: https://www.cyberscribble.org
         # link_text: Project Website
@@ -66,12 +66,12 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           CyberScribble is an innovative blog dedicated to exploring and educating on the latest in cybersecurity and tech trends.
-      - layout: list
+      - layout: top-middle
         title: GED
         link: https://git-event-dash.onrender.com/
         description: | # this will include new lines to allow paragraphs
           This gitHub events dashboard provides a comprehensiveview of opensource github events.        
-      - layout: list
+      - layout: top-middle
         title: Top N GED
         link: https://top-proj-dash.onrender.com/
         description: | # this will include new lines to allow paragraphs
