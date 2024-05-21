@@ -53,7 +53,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: list
         title: Cyber Scribble Blog
         link: https://www.cyberscribble.org
         # link_text: Project Website
@@ -68,7 +68,7 @@ content:
           Unlocking Cool Cyber Secrets!
         description: | # this will include new lines to allow paragraphs
           CyberScribble is an innovative blog dedicated to exploring and educating on the latest in cybersecurity and tech trends.
-
+      - layout: list
         title: Github Events Dashboard
         link: https://git-event-dash.onrender.com/
         # link_text: Project Website
