@@ -28,10 +28,10 @@ linkedin_username: pragashj
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pragash and I'm an Engineering Practitioner. On top of wiring things, I am passionate about building interesting tools out of curiosity. 
+  Hi, my name's Pragash and I'm an Engineering practitioner. On top of wiring things, I am passionate about building interesting tools out of curiosity. 
   I am most skilled in: <mark>Embedded Systems</mark>,  <mark>Security</mark> and <mark>Cooking</mark>
 
 content:
