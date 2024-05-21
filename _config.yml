@@ -56,6 +56,7 @@ content:
       - layout: list
         title: Cyber Scribble
         link: https://www.cyberscribble.org
+        sub_title: Unlocking cool cyber secrets!        
         # link_text: Project Website
         # additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -67,12 +68,14 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #  CyberScribble is an innovative blog dedicated to exploring and educating on the latest in cybersecurity and tech trends.
       - layout: list
-        title: GED ( Github events dashboard )
+        title: GED 
+        sub_title: Github events dashboard 
         link: https://git-event-dash.onrender.com/
         # description: | # this will include new lines to allow paragraphs
         #  This gitHub events dashboard provides a comprehensiveview of opensource github events.        
       - layout: list
-        title: Top N GED ( TopN Github events dashboard)
+        title: Top N GED 
+        sub_title: TopN github events dashboard
         link: https://top-proj-dash.onrender.com/
         # description: | # this will include new lines to allow paragraphs
         #  This GitHub events dashboard provides a comprehensiveview activities for Top N project open source projects.              
