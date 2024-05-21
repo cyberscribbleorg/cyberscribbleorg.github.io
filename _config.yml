@@ -46,28 +46,43 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pragash and I'm an Engineering Practitioner. On top of wiring things, I am passionate about building interesting tools for general public. 
-  I am most skilled in: <mark>Embedded Systems</mark> <mark>Security</mark> and <mark>Cooking</mark>
+  Hi, my name's Pragash and I'm an Engineering Practitioner. On top of wiring things, I am passionate about building interesting tools out of curiosity. 
+  I am most skilled in: <mark>Embedded Systems</mark>,  <mark>Security</mark> and <mark>Cooking</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Cyber Scribble Blog
+        link: https://www.cyberscribble.org
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Unlocking Cool Cyber Secrets!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          CyberScribble is an innovative blog dedicated to exploring and educating on the latest in cybersecurity and tech trends.
+
+        title: Github Events Dashboard
+        link: https://git-event-dash.onrender.com/
+        # link_text: Project Website
+        # additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A Graph Speaks Thousand Words!
+        description: | # this will include new lines to allow paragraphs
+          The GitHub Events Dashboard provides a comprehensiveview of important project-related activities.        
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
