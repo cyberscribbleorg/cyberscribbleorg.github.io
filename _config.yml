@@ -46,8 +46,8 @@ linkedin_username: pragashj
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pragash and I'm an Engineering practitioner. On top of wiring things, I am passionate about building interesting tools out of curiosity. 
-  I am most skilled in: <mark>Embedded Systems</mark>,  <mark>Security</mark> and <mark>Cooking</mark>
+  Hi, my name's Pragash, and I'm an Engineering practitioner. Beyond wiring things, I have a passion for building interesting tools driven by curiosity.. 
+  My main skills include <mark>Embedded Systems</mark>,  <mark>Security</mark> and <mark>Cooking</mark>
 
 content:
   - title: Projects # Title for the section
