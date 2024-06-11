@@ -68,6 +68,12 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #  CyberScribble is an innovative blog dedicated to exploring and educating on the latest in cybersecurity and tech trends.
       - layout: list
+        title: EventFlow 
+        sub_title: Empower Your Git Project with Data-Driven Insights
+        link: https://github.com/cyberscribbleorg/EventFlow
+        # description: | # this will include new lines to allow paragraphs
+        #  This gitHub events dashboard provides a comprehensiveview of opensource github events.   
+      - layout: list
         title: GED 
         sub_title: Github events dashboard 
         link: https://git-event-dash.onrender.com/
